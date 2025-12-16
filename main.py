@@ -1,4 +1,4 @@
-# Will Torres | Student ID: 011514731 | Data Structures and Algorithms II | WGUPS Routing Program Implementation
+
 # Delivery routing system using a custom hash table and greedy nearest-feasible algorithm with priority selection
 
 
